@@ -5,6 +5,6 @@ package com.se.sample;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("fiveth commit");
+        System.out.println("sixth commit");
     }
 }
