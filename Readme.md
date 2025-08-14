@@ -5,20 +5,12 @@ Sample. How to use large file with esists git repo
 ## Installing Git LFS
 to go to the git-lfs [website](https://git-lfs.com/) and install the files
 
+
+
 ### setup git lfs
 ```bash
 git lfs install
 ```
-
-migrate 
-```bash
-	git reflog expire --expire-unreachable=now --all
-```
-
-```bash
-	git gc --prune=now
-```
-
 
 
 
