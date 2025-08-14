@@ -12,6 +12,8 @@ to go to the git-lfs [website](https://git-lfs.com/) and install the files
 git lfs install
 ```
 
+git reflog expire --expire-unreachable=now --all
+git gc --prune=now
 
 
 ### select the file types that you want Git-lfs to manage using the command
